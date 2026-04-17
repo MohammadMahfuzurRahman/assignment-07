@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "picture": "https://i.pravatar.cc/300",
+    "email": "alex@gmail.com",
+    "days_since_contact": 10,
+    "status": "almost due",
+    "tags": ["college"],
+    "bio": "Met in university",
+    "goal": 14,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 2,
+    "name": "Maya Rahman",
+    "picture": "https://i.pravatar.cc/301",
+    "email": "maya.rahman@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["work", "gym"],
+    "bio": "Former teammate from startup days",
+    "goal": 10,
+    "next_due_date": "2026-04-24"
+  },
+  {
+    "id": 3,
+    "name": "Ryan Lee",
+    "picture": "https://i.pravatar.cc/302",
+    "email": "ryan.lee@gmail.com",
+    "days_since_contact": 19,
+    "status": "overdue",
+    "tags": ["travel"],
+    "bio": "Backpacking friend from Thailand trip",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 4,
+    "name": "Nadia Ahmed",
+    "picture": "https://i.pravatar.cc/303",
+    "email": "nadia.ahmed@gmail.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["college", "design"],
+    "bio": "Classmate from UI/UX course",
+    "goal": 10,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 5,
+    "name": "Daniel Kim",
+    "picture": "https://i.pravatar.cc/304",
+    "email": "daniel.kim@gmail.com",
+    "days_since_contact": 1,
+    "status": "on-track",
+    "tags": ["gaming"],
+    "bio": "Late-night co-op gaming buddy",
+    "goal": 7,
+    "next_due_date": "2026-04-23"
+  },
+  {
+    "id": 6,
+    "name": "Sadia Noor",
+    "picture": "https://i.pravatar.cc/305",
+    "email": "sadia.noor@gmail.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["family"],
+    "bio": "Cousin living in Chattogram",
+    "goal": 12,
+    "next_due_date": "2026-04-15"
+  },
+  {
+    "id": 7,
+    "name": "Omar Faruk",
+    "picture": "https://i.pravatar.cc/306",
+    "email": "omar.faruk@gmail.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["football", "school"],
+    "bio": "School friend and weekend football partner",
+    "goal": 14,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 8,
+    "name": "Priya Sen",
+    "picture": "https://i.pravatar.cc/307",
+    "email": "priya.sen@gmail.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["music"],
+    "bio": "Met at a local jazz workshop",
+    "goal": 14,
+    "next_due_date": "2026-04-19"
+  },
+  {
+    "id": 9,
+    "name": "Imran Hossain",
+    "picture": "https://i.pravatar.cc/308",
+    "email": "imran.h@gmail.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["mentor", "career"],
+    "bio": "Career mentor from first internship",
+    "goal": 14,
+    "next_due_date": "2026-04-09"
+  },
+  {
+    "id": 10,
+    "name": "Tania Chowdhury",
+    "picture": "https://i.pravatar.cc/309",
+    "email": "tania.c@gmail.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["bookclub", "coffee"],
+    "bio": "Friend from neighborhood book club",
+    "goal": 10,
+    "next_due_date": "2026-04-25"
+  }
+]
