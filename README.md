@@ -1,16 +1,24 @@
-# React + Vite
+# KeenKeeper 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Project Name
+KeenKeeper - Personal Finance Tracker
 
-Currently, two official plugins are available:
+##  Description
+KeenKeeper is a modern web application designed to help users manage their personal finances efficiently. It allows users to track income and expenses, visualize financial data, and maintain better control over their spending habits through an intuitive and responsive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Technologies Used
+- React.js
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Recharts (for data visualization)
 
-## React Compiler
+##  Key Features
+1. Expense & Income Tracking  
+   Users can easily add, update, and manage their financial transactions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+2. Interactive Charts & Analytics  
+   Visual representation of financial data using charts for better understanding.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+3. Responsive & Modern UI  
+   Clean and mobile-friendly design built with Tailwind CSS.
